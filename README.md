@@ -16,6 +16,6 @@ In future, a GUI based tool to encrypt/decrypt plain text will be made.
 Also, check out the presentation and detailed report for this analysis.
 
 <p align="center">
-<img src="https://github.com/kartik0198/rsa-crt-analysis/blob/master/Decryption%20time%20comparison.png"/>
-<img src="https://github.com/kartik0198/rsa-crt-analysis/blob/master/Key%20generation%20time%20comparison.png"/>
+<img src="https://github.com/kartik0198/rsa-crt-analysis/blob/master/images/decryption.png"/>
+<img src="https://github.com/kartik0198/rsa-crt-analysis/blob/master/images/keygen.png"/>
 </p>
